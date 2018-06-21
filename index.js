@@ -15,6 +15,11 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 143f7a969012e20ae6bfba4781b736e05b9390c6
 
 
 const two = 2
